@@ -1,0 +1,2 @@
+Merhaba
+Icerik: Pyhton File I/O + ERROR Handling
